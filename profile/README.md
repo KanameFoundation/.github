@@ -1,4 +1,4 @@
 ## Welcome To Kaname Fundation
 
-active development :
+active developer :
 1. Abdul Vaiz Vahry Iskandar
